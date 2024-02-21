@@ -5,7 +5,7 @@
 <!-- **Drishyaz/Drishyaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
 
 ### About Me:
-- 🔭 I’m currently working on a **100 Day Python Bootcamp**
+- 🔭 I’m currently working on a **Myself**
 - 🌱 I’m currently learning **Python Development**
 - 👩‍💻 Here's my Behance profile https://behance.net/drishyaz
 - 💬 Ask me about **Design, Code & Games**
