@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on a **Myself**
 - 🌱 I’m currently learning **Python Development**
 - 👩‍💻 Here's my Behance profile https://behance.net/drishyaz
+- 👩‍💻 Connect with me on LinkedIn https://linkedin.com/in/drishyaagarwal
 - 💬 Ask me about **Design, Code & Games**
 - 📫 How to reach me: drishyaaz01@gmail.com
 - ⚡ Fun fact: **In my off time, I read Medium articles and play games.**
