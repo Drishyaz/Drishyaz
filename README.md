@@ -5,8 +5,6 @@
 <!-- **Drishyaz/Drishyaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drishyaz&label=Profile%20views&color=0e75b6&style=flat" alt="Drishyaz' profile views" /> </p>
 
-<hr>
-
 ### About Me:
 - 🔭 I’m currently working on a **Myself**
 - 🌱 I’m currently learning **Python Development**
