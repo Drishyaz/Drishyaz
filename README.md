@@ -3,17 +3,17 @@
 
 <h3 align="center">Im a Designer + Developer</h3> 
 <!-- **Drishyaz/Drishyaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drishyaz&label=Profile%20views&color=0e75b6&style=flat" alt="drishyaz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=drishyaz&label=Profile%20views&color=0e75b6&style=flat" alt="Drishyaz' profile views" /> </p>
 
 <hr>
 
 ### About Me:
 - 🔭 I’m currently working on a **Myself**
 - 🌱 I’m currently learning **Python Development**
-- 👨‍💻 All of my projects are available at [https://github.com/Drishyaz?tab=repositories](https://github.com/Drishyaz?tab=repositories)
+- 👨‍💻 All of my projects are available in <a href="https://github.com/Drishyaz?tab=repositories" target="_blank">this link.</a>
 - 💬 Ask me about **Design, Code & Games**
-- 📫 How to reach me: drishyaaz01@gmail.com
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1cmoeWapV4FEle5UEK5l3n1UwXvCoS7u4?usp=sharing](https://drive.google.com/drive/folders/1cmoeWapV4FEle5UEK5l3n1UwXvCoS7u4?usp=sharing)
+- 📫 How to reach me: <a href="mailto:drishyaaz01@gmail.com">drishyaaz01@gmail.com</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1cmoeWapV4FEle5UEK5l3n1UwXvCoS7u4?usp=sharing">here</a>
 - ⚡ Fun fact: **In my off time, I read Medium articles and play games.**
 
 ### Languages and Tools:
