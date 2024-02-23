@@ -8,10 +8,10 @@
 ### About Me:
 - 🔭 I’m currently working on a **Myself**
 - 🌱 I’m currently learning **Python Development**
-- 👨‍💻 All of my projects are available <a href="https://github.com/Drishyaz?tab=repositories">here</a>
+- 👨‍💻 All of my projects are available <a href="https://github.com/Drishyaz?tab=repositories" target="_blank">here</a>
 - 💬 Ask me about **Design, Code & Games**
 - 📫 How to reach me: <a href="mailto:drishyaaz01@gmail.com">drishyaaz01@gmail.com</a>
-- 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1cmoeWapV4FEle5UEK5l3n1UwXvCoS7u4?usp=sharing">here</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1cmoeWapV4FEle5UEK5l3n1UwXvCoS7u4?usp=sharing" target="_blank">here</a>
 - ⚡ Fun fact: **In my off time, I read Medium articles and play games.**
 
 ### Languages and Tools:
