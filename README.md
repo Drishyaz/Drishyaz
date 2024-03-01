@@ -14,6 +14,14 @@
 - 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1cmoeWapV4FEle5UEK5l3n1UwXvCoS7u4?usp=sharing" target="_blank">here</a>
 - ⚡ Fun fact: **In my off time, I read Medium articles and play games.**
 
+### Connect with Me:
+<p align="left">
+<a href="https://linkedin.com/in/drishyaagarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drishyaagarwal" height="30" width="40" /></a>
+<a href="https://dribbble.com/drishyaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="drishyaz" height="30" width="40" /></a>
+<a href="https://www.behance.net/drishyaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="drishyaz" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/drishyaaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="drishyaaz" height="30" width="40" /></a>
+</p>
+
 ### Languages and Tools:
 <p align="left">
 <img src="https://github.com/Drishyaz/Drishyaz/assets/106886727/1a45609c-b282-489b-ab4a-f669df8765f0" alt="Python Programming language" width="60" height="60">
