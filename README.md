@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drishyaz&label=Profile%20views&color=0e75b6&style=flat" alt="Drishyaz' profile views" /> </p>
 
 ### About Me:
-- 🔭 I’m currently working on a **Myself**
+- 🔭 I’m currently working on **Myself**
 - 🌱 I’m currently learning **Python Development**
 - 👨‍💻 All of my projects are available <a href="https://github.com/Drishyaz?tab=repositories" target="_blank">here</a>
 - 💬 Ask me about **Design, Code & Games**
