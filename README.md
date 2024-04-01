@@ -31,6 +31,8 @@
 <img src="https://github.com/Drishyaz/Drishyaz/assets/106886727/e703a655-04e1-4fdb-b1c1-46e96f71d7b0" alt="CSS" width="60" height="60">
 <img src="https://github.com/Drishyaz/Drishyaz/assets/106886727/95e77655-c014-422e-91e7-ebe055965956" alt="SQL" width="60" height="60">
 <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/>
+[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dtkinter&psig=AOvVaw3kPTjraOkvp3S-9F7ekK22&ust=1712047517171000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiO5pzQoIUDFQAAAAAdAAAAABAE]
 <img src="https://github.com/Drishyaz/Drishyaz/assets/106886727/7cc2cad2-3c00-4e1d-86d3-e821c983f8f1" alt="Figma - UI Designing tool" width="60" height="60">
 <img src="https://github.com/Drishyaz/Drishyaz/assets/106886727/d41dfc58-7fb2-4436-92dd-7f8030159726" alt="Adobe Photoshop" width="60" height="60">
 <img src="https://github.com/Drishyaz/Drishyaz/assets/106886727/a42ffa99-2a8d-4ab9-94c7-daf23745fe8a" alt="Adobe Illustrator" width="60" height="60">
