@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey! I'm Drishya!Agarwal🙋‍♀️</h1>
+<h1 align="center">Hey! It's Drishya Agarwal🙋‍♀️</h1>
 
 <h3 align="center">Full Stack Designer & Python Developer</h3> 
 <!-- **Drishyaz/Drishyaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
