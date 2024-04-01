@@ -1,7 +1,7 @@
 
-<h1 align="center">Hey! It's Drishya!🙋‍♀️</h1>
+<h1 align="center">Hey! I'm Drishya!Agarwal🙋‍♀️</h1>
 
-<h3 align="center">Im a Designer + Developer</h3> 
+<h3 align="center">Full Stack Designer & Python Developer</h3> 
 <!-- **Drishyaz/Drishyaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drishyaz&label=Profile%20views&color=0e75b6&style=flat" alt="Drishyaz' profile views" /> </p>
 
@@ -32,7 +32,6 @@
 <img src="https://github.com/Drishyaz/Drishyaz/assets/106886727/95e77655-c014-422e-91e7-ebe055965956" alt="SQL" width="60" height="60">
 <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/>
-[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dtkinter&psig=AOvVaw3kPTjraOkvp3S-9F7ekK22&ust=1712047517171000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiO5pzQoIUDFQAAAAAdAAAAABAE]
 <img src="https://github.com/Drishyaz/Drishyaz/assets/106886727/7cc2cad2-3c00-4e1d-86d3-e821c983f8f1" alt="Figma - UI Designing tool" width="60" height="60">
 <img src="https://github.com/Drishyaz/Drishyaz/assets/106886727/d41dfc58-7fb2-4436-92dd-7f8030159726" alt="Adobe Photoshop" width="60" height="60">
 <img src="https://github.com/Drishyaz/Drishyaz/assets/106886727/a42ffa99-2a8d-4ab9-94c7-daf23745fe8a" alt="Adobe Illustrator" width="60" height="60">
@@ -43,4 +42,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drishyaz&show_icons=true&locale=en&layout=compact" alt="drishyaz" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drishyaz&show_icons=true&locale=en" alt="drishyaz" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drishyaz&" alt="drishyaz" /></p>
-
