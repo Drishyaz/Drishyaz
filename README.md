@@ -11,7 +11,7 @@
 - 👨‍💻 Check out my GUI projects <a href="https://github.com/Drishyaz/Python-GUI-projects/tree/main" target="_blank">here</a>
 - 💬 Ask me about **Design, Code & Games**
 - 📫 How to reach me: <a href="mailto:drishyaaz01@gmail.com">drishyaaz01@gmail.com</a>
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1RJAoQvWFDiBN9Ji7GeL98L5vKfc6ekZA/view?usp=sharing" target="_blank">here</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1U6MiJPcnAlpzc7kWFPx0wgLnyb_GrTL_/view?usp=sharing" target="_blank">here</a>
 - ⚡ Fun fact: **In my off time, I read Medium articles and play games.**
 
 ### Connect with Me:
