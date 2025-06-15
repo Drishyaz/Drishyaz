@@ -1,18 +1,18 @@
 
 <h1 align="center">Hey! It's Drishya Agarwal🙋‍♀️</h1>
 
-<h3 align="center">Full Stack Designer & Python Developer</h3> 
+<h3 align="center">Assistant Professor, Designer & Developer</h3> 
 <!-- **Drishyaz/Drishyaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drishyaz&label=Profile%20views&color=0e75b6&style=flat" alt="Drishyaz' profile views" /> </p>
 
 ### About Me:
-- 🔭 I’m currently working on a <a href="https://github.com/Drishyaz/100-Day-Python-Bootcamp">100-Day Python Bootcamp</a>
-- 🌱 I’m currently learning **Python GUI Development**
+- 🔭 I’m currently working on **learning Flask**
+- 🌱 I’m currently learning **Web Development with Python**
 - 👨‍💻 Check out my GUI projects <a href="https://github.com/Drishyaz/Python-GUI-projects/tree/main" target="_blank">here</a>
 - 💬 Ask me about **Design, Code & Games**
 - 📫 How to reach me: <a href="mailto:drishyaaz01@gmail.com">drishyaaz01@gmail.com</a>
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1U6MiJPcnAlpzc7kWFPx0wgLnyb_GrTL_/view?usp=sharing" target="_blank">here</a>
-- ⚡ Fun fact: **In my off time, I read Medium articles and play games.**
+- ⚡ Fun fact: **In my off time, I solve puzzle games.**
 
 ### Connect with Me:
 <p align="left">
