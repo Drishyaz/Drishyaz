@@ -7,7 +7,7 @@
 
 ### About Me:
 - 🔭 I’m currently working on **my Portfolio**
-- 🌱 I’m currently learning **Flask**
+- 🌱 Learning **Flask**
 - 👨‍💻 Check out my GUI projects <a href="https://github.com/Drishyaz/Python-GUI-projects/tree/main" target="_blank">here</a>
 - 💬 Ask me about **Design, Code & Games**
 - 📫 <a href="mailto:drishyaaz01@gmail.com">Let's connect</a>
