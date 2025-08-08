@@ -6,8 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drishyaz&label=Profile%20views&color=0e75b6&style=flat" alt="Drishyaz' profile views" /> </p>
 
 ### About Me:
-- 🔭 I’m currently working on **learning Flask**
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🔭 I’m currently working on **my Portfolio**
+- 🌱 I’m currently learning **Flask**
 - 👨‍💻 Check out my GUI projects <a href="https://github.com/Drishyaz/Python-GUI-projects/tree/main" target="_blank">here</a>
 - 💬 Ask me about **Design, Code & Games**
 - 📫 How to reach me: <a href="mailto:drishyaaz01@gmail.com">drishyaaz01@gmail.com</a>
