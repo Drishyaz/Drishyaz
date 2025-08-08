@@ -12,7 +12,7 @@
 - 💬 Ask me about **Design, Code & Games**
 - 📫 How to reach me: <a href="mailto:drishyaaz01@gmail.com">drishyaaz01@gmail.com</a>
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1U6MiJPcnAlpzc7kWFPx0wgLnyb_GrTL_/view?usp=sharing" target="_blank">here</a>
-- ⚡ Fun fact: **In my off time, I solve puzzle games.**
+- ⚡ Fun fact: **In my off time, I love solving puzzles**
 
 ### Connect with Me:
 <p align="left">
